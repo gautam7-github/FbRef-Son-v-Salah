@@ -1,0 +1,12 @@
+Statistic,Per 90,Percentile
+Goals,0.75,99
+Assists,0.42,96
+Non-Penalty Goals,0.59,98
+Penalty Kicks Made,0.16,97
+Penalty Kicks Attempted,0.20,97
+Yellow Cards,0.03,83
+Red Cards,0.00,53
+xG,0.71,99
+npxG,0.55,98
+xA,0.34,99
+npxG+xA,0.89,99
